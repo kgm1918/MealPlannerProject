@@ -67,6 +67,10 @@ The user’s preferences (diet type, calorie goal, allergies, etc.) are sent to 
 3. Open the project in Xcode
 4. Run the app on a simulator or device
 
+## Demo
+
+<img src="mealplanner.gif" width="200">
+
 ## Author
 
 GitHub: https://github.com/kgm1918
